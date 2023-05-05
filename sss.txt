@@ -1,0 +1,5 @@
+middle dark #0E141E;
+green #2ec866;
+off white #d4e4f9;
+dark #111827;
+normal dark #1d2432
